@@ -31,3 +31,6 @@ To resolve the lexical limitations of V1, the next iteration of this engine will
    ```bash
    pip install pandas scikit-learn spacy
    python -m spacy download en_core_web_sm
+4. Run the engine: 
+    ```bash
+    python matcher.py
