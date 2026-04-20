@@ -1,0 +1,71 @@
+Education
+Shanhe Gan
++1-347-248-5479 | shanhegan0207@gmail.com | location: NY
+• Rensselaer Polytechnic Institute
+Computer Science, dual Mathematics, minor Economics
+◦ GPA: 3.53/4.00 | Dean’s list for 4 semesters
+Aug. 2023- May 2027
+Troy, NY
+◦ Relevant Coursework: Data Structures, Algorithms, Foundation of Computer Science, Computer
+Organization, Principles of Software, Linear Algebra, Operating Systems, Programming Languages,
+Probability Theory and Applications, Numerical Computing.
+Technical Skills
+• Programming Languages:Python, R, C/C++, Java, Kotlin, SQL, JavaScript, Haskell, Prolog, Scheme,
+MIPS Assembly, HTML/CSS, LaTeX
+• Frameworks & Tools:Ubuntu/Linux, MATLAB, Git, AWS, Android Studio, Firebase, React Native,
+TCP/IP Basics, Distributed systems, AI-assisted coding
+Experience
+• Exploratory Research on Immersive Virtual Campus Tour Design
+Undergraduate Research Assistant (Rensselaer Polytechnic Institute)
+Jan. 2026- Present
+Troy, NY
+◦ Analyzed architectural trade-offs between 360° panoramic rendering, photogrammetry, and WebGL-based
+engines in cost, complexity, browser compatibility to determine the optimal tech stack.
+◦ Surveyed existing industry-leading virtual tour and drafted a technical memo on game design patterns.
+• Rensselaer Polytechnic Institute
+Student Mentor
+Jan. 2026- May 2026
+Troy, NY
+◦ Host weekly office hours for Operating Systems, providing troubleshooting support to students.
+• Rensselaer Polytechnic Institute
+Computer Technician Assistant
+Sep 2023- May 2024
+◦ Maintained computers in Rensselaer Computer Repair both for personal and rental equipment.
+◦ Performed OS imaging and software configuration for Windows.
+• Voya Investment Management
+Troy, NY
+Jul. 2023- Aug. 2023
+IT Engineering Intern
+◦ Drafted technical documentation and formal communications for stakeholders.
+◦ Coordinated team huddles and utilized ServiceNow to resolve technical tickets in IT department.
+◦ Collaborated with IT engineering teams to streamline internal data management.
+Projects
+Remote
+• RL4Ising Research Project
+Rensselaer Center for Open Source
+Jan. 2026- Present
+Troy, NY
+◦ Reproduced Variational Classical Annealing (VCA) benchmarks for 1D and 2D Ising models by configuring
+a high-performance WSL2 environment and implementing neural samplers for spin configuration analysis.
+• Nighthawk Journal: [A Personal Journal Mobile App]
+Tools: AI-assisted coding, JavaScript, React Native, Firebase, Node.js
+Jan. 2026- Present
+◦ Architected a cross-platform React Native app providing journaling experience on iOS and Android.
+◦ Integrated Firebase for secure user authentication and real-time database management.
+◦ Designed a modular UI component system to support dynamic text entry and chronological entry sorting.
+• Procrastaint: [A ToDoList app using Natural language processing (NLP)]
+Tools: Android Studio, Kotlin, Jetpack Compose, Java
+Sep. 2024- Dec. 2024
+◦ Developed an interactive calendar interface with month and day views using Kotlin in Android studio.
+◦ Implemented functionality for displaying and managing to-do tasks by day with animation effects.
+Campus Leadership
+• Chinese Students & Scholars Association
+Outreach Chair & Event Coordinator
+◦ Led events and festival performances with 100+ student participants.
+• Girls Who Code College Loop at RPI
+Aug. 2025- Present
+Troy, NY
+Dec. 2025- Present
+Social Media Chair
+Troy, NY
+◦ Designed event posters and promoted club events in coordination with the school
